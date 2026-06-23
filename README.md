@@ -20,7 +20,7 @@ A simple Python-based Number Guessing Game where the computer generates a random
 
 1. Clone the repository:
 
-   git clone https://github.com/your-username/number-guessing-game.git
+   git clone https://github.com/ItsAdityaC/number-guessing-game.git
 
 2. Navigate to the project folder:
 
@@ -61,4 +61,4 @@ number-guessing-game/
 
 ## Author
 
-Your Name
+Aditya Chaurasia
